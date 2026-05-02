@@ -23,7 +23,7 @@ This project presents an end-to-end data analysis of a retail Superstore dataset
 ---
 
 ##  Dashboard Preview
-![Dashboard](images/dashboard1.png)
+
 
 ---
 
